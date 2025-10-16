@@ -6,7 +6,6 @@
 import socket
 import time
 
-# Replace with your computer's local IP address
 HOST = '10.61.134.158'  # computer's IP address
 PORT = 65432            # Must match the port used on the computer
 
